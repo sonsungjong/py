@@ -17,3 +17,9 @@ result = s.replace('-', '')
 print(result)
 
 # page173 예제
+
+# 주중에 page 103~143 반복문
+
+'''
+010-2580-2463 손성종
+'''
