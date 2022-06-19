@@ -1,4 +1,5 @@
 import cv2
+# pyinstaller -w -F "파일명.py"
 
 # 이미지 불러오기
 이미지 = cv2.imread('img1.jpg')
